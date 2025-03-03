@@ -5,31 +5,23 @@
 ![](https://img.shields.io/badge/Arch%20Linux-212121.svg?style=for-the-badge&logo=Arch-Linux&logoColor=cyan)
 ![](https://img.shields.io/badge/Neovim-212121.svg?style=for-the-badge&logo=Neovim&logoColor=green)
 
-> Just a guy sent from the clouds, looking to make your workflows awesome, build automated projects, and keep things fast so that you can be faster ☁️
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class DevOpsEngineer:
-
-    def __init__(self):
-        self.name = "Mateusz Kłysz"
-        self.role = "DevOps Engineer"
-        self.language_spoken = ["pl_PL", "en_US"]
-
-    def say_hi(self):
-        print("Hi! Make the most of your day.")
-
-
-me = DevOpsEngineer()
-me.say_hi()
-```
+> Just a guy looking to streamline your workflows, automate projects, and keep things fast so you can be even faster ꩜
 
 ```
- bash-3.2$ ./profile.sh
- Hi! Make the most of your day.
- Program received signal SIGSEGV, Segmentation fault.
- ^C^C^C
+                                            ...',;;:cccccccc:;,..
+                                        ..,;:cccc::::ccccclloooolc;'.
+                                     .',;:::;;;;:loodxk0kkxxkxxdocccc;;'..
+                                   .,;;;,,;:coxldKNWWWMMMMWNNWWNNKkdolcccc:,.
+                                .',;;,',;lxo:...dXWMMMMMMMMNkloOXNNNX0koc:coo;.
+                             ..,;:;,,,:ldl'   .kWMMMWXXNWMMMMXd..':d0XWWN0d:;lkd,
+                           ..,;;,,'':loc.     lKMMMNl. .c0KNWNK:  ..';lx00X0l,cxo,.
+                         ..''....'cooc.       c0NMMX;   .l0XWN0;       ,ddx00occl:.
+                       ..'..  .':odc.         .x0KKKkolcld000xc.       .cxxxkkdl:,..
+                     ..''..   ;dxolc;'         .lxx000kkxx00kc.      .;looolllol:'..
+                    ..'..    .':lloolc:,..       'lxkkkkk0kd,   ..':clc:::;,,;:;,'..
+                    ......   ....',;;;:ccc::;;,''',:loddol:,,;:clllolc:;;,'........
+                        .     ....'''',,,;;:cccccclllloooollllccc:c:::;,'..
+                                .......'',,,,,,,,;;::::ccccc::::;;;,,''...
+                                  ...............''',,,;;;,,''''''......
+                                       ............................
 ```
