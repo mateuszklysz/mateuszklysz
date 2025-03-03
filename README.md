@@ -30,6 +30,6 @@ me.say_hi()
 ```
  bash-3.2$ ./profile.sh
  Hi! Make the most of your day.
- Segmentation fault (core dumped)
+ Program received signal SIGSEGV, Segmentation fault.
  ^C^C^C
 ```
