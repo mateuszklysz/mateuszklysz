@@ -1,25 +1,4 @@
-## Mateusz Kłysz
-
-![](https://img.shields.io/badge/macOS-212121.svg?style=for-the-badge&logo=macOS&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-212121.svg?style=for-the-badge&logo=Kubernetes&logoColor=blue)
-
-> Just a guy looking to streamline your workflows, automate projects, and keep things fast so you can be even faster ꩜
-
-```
-                                            ...',;;:cccccccc:;,..
-                                        ..,;:cccc::::ccccclloooolc;'.
-                                     .',;:::;;;;:loodxk0kkxxkxxdocccc;;'..
-                                   .,;;;,,;:coxldKNWWWMMMMWNNWWNNKkdolcccc:,.
-                                .',;;,',;lxo:...dXWMMMMMMMMNkloOXNNNX0koc:coo;.
-                             ..,;:;,,,:ldl'   .kWMMMWXXNWMMMMXd..':d0XWWN0d:;lkd,
-                           ..,;;,,'':loc.     lKMMMNl. .c0KNWNK:  ..';lx00X0l,cxo,.
-                         ..''....'cooc.       c0NMMX;   .l0XWN0;       ,ddx00occl:.
-                       ..'..  .':odc.         .x0KKKkolcld000xc.       .cxxxkkdl:,..
-                     ..''..   ;dxolc;'         .lxx000kkxx00kc.      .;looolllol:'..
-                    ..'..    .':lloolc:,..       'lxkkkkk0kd,   ..':clc:::;,,;:;,'..
-                    ......   ....',;;;:ccc::;;,''',:loddol:,,;:clllolc:;;,'........
-                        .     ....'''',,,;;:cccccclllloooollllccc:c:::;,'..
-                                .......'',,,,,,,,;;::::ccccc::::;;;,,''...
-                                  ...............''',,,;;;,,''''''......
-                                       ............................
-```
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=170&color=0:0D0D0D,45:1A1A1A,100:2A1A00&text=Mateusz%20K%C5%82ysz&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=streamlining%20workflows%20%C2%B7%20automating%20the%20repetitive%20%C2%B7%20keeping%20things%20fast%20%EA%A9%9C&descAlignY=62&descSize=15&descColor=FFFFFF&animation=twinkling" />
+<img width="56%" src="https://streak-stats.demolab.com?user=mateuszklysz&theme=dark&hide_border=true&background=0D0D0D00&stroke=2A2A2A&ring=D78700&fire=D78700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D78700&sideLabels=FFFFFF&dates=8B8B8B" />
+</div>
